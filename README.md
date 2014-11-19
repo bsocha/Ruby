@@ -7,10 +7,10 @@
 
 Mogą być kontaketowane i powtarzane tak jak łańcuchy:
 
->  tab + ["cos", "coe"]
-> => [1, 2, "3", "cos", "coe"]
->  tab * 2
-> => [1, 2, "3", 1, 2, "3"]
+*  tab + ["cos", "coe"]
+* => [1, 2, "3", "cos", "coe"]
+*  tab * 2
+* => [1, 2, "3", 1, 2, "3"]
 
 Można uzywać numerów indeksów by odnieść do jakiejś tablicy (można też poprzez wartości ujemne oznaczać położenie elementu od końca tablicy):
 
@@ -67,10 +67,10 @@ Aby uzyskać różnicę:
 
 *  t = [[1,2],[3,4]]
 * => [[1, 2], [3, 4]]
-- Gdy wpiszemy:
+
 *  t[1][0]
 * => 3
-- jako wynik na ekranie pojawia się cyfra 3 (pierwszy element drugiej tablicy "wewnętrznej").
+Jako wynik na ekranie pojawia się cyfra 3 (pierwszy element drugiej tablicy "wewnętrznej").
 
 ##Tablice asocjacyjne
 
