@@ -7,10 +7,10 @@
 
 Mogą być kontaketowane i powtarzane tak jak łańcuchy:
 
->  tab + ["cos", "coe"]
-> => [1, 2, "3", "cos", "coe"]
->  tab * 2
-> => [1, 2, "3", 1, 2, "3"]
+*  tab + ["cos", "coe"]
+* => [1, 2, "3", "cos", "coe"]
+*  tab * 2
+* => [1, 2, "3", 1, 2, "3"]
 
 Można uzywać numerów indeksów by odnieść do jakiejś tablicy (można też poprzez wartości ujemne oznaczać położenie elementu od końca tablicy):
 
