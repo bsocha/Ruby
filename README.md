@@ -67,10 +67,10 @@ Aby uzyskać różnicę:
 
 *  t = [[1,2],[3,4]]
 * => [[1, 2], [3, 4]]
-Gdy wpiszemy:
+- Gdy wpiszemy:
 *  t[1][0]
 * => 3
-jako wynik na ekranie pojawia się cyfra 3 (pierwszy element drugiej tablicy "wewnętrznej").
+- jako wynik na ekranie pojawia się cyfra 3 (pierwszy element drugiej tablicy "wewnętrznej").
 
 ##Tablice asocjacyjne
 
