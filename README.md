@@ -1,5 +1,11 @@
 #Tablice
 
+Tworzenie tablic złożonych jedynie ze słów może okazać się trudne w zapisie z powodu dużej ilości cudzysłowów. Z pomocą przychodzi operator %w.
+
+* b = %w{jeden dwa trzy cztery}	-> ["jeden","dwa","trzy","cztery"]
+ 
+Operatory zakresu i modyfikacji w tym przypadku zachowują się tak samo. Istotny jest także znak *. Sugeruje on, że parameter przekazywany do metody powinien być tablicą.
+
 ##Sposoby zapisu tablic:
 
 *  tab = [1, 2, "3"]
