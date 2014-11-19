@@ -5,8 +5,7 @@
  tab = [1, 2, "3"]
 => [1, 2, "3"]
 
-
-Mmogą być kontaketowane i powtarzane tak jak łańcuchy:
+Mogą być kontaketowane i powtarzane tak jak łańcuchy:
 
  tab + ["cos", "coe"]
 => [1, 2, "3", "cos", "coe"]
