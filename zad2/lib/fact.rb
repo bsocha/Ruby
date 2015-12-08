@@ -3,6 +3,6 @@ def fact(n)
     (n == 0) ? 1 : n*fact(n-1)
   end
   rescue SystemStackError, StandardError
-    puts 'negative numbers are not domain of a factorial function'
+    puts 'nie ujemna'
     exit
 end
