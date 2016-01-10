@@ -10,4 +10,4 @@ Program składa się z 3 klas:
 To biblioteka. Aby ją uruchomić trzeba napisać skrypt i załączyć te pliki.
 Przykładowy program: skrypt example.rb w folderze bin
 
-Bartłomiej Socha
+Bartłomiej Socha, Łukasz Dąbrowski, Michał Krakowiak
